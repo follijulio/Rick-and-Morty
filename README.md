@@ -3,4 +3,4 @@
 <p>O front ficou meio ruim e o back também, mas o que importa e a tentativa...</p>
 
 
-<a href="https://rickandmortyapi.com" >LINK RICK AND MORTY API</a>
+<a href="https://rickandmortyapi.com" >RICK AND MORTY API</a>
